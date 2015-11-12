@@ -27,4 +27,4 @@ Styles added for next services:
 var services = ['facebook', 'twitter', 'linkedin', 'gplus', 'vk', 'email', 'pinterest'];
 </pre>
 You are welcome to add styles and counter methods for another services and networks.<br/>
-Play here <a href="https://github.com/michaeleparkour/Super-Simple-Share-Buttons/">Demo</a>
+Play here <a href="http://michaeleparkour.github.io/Super-Simple-Share-Buttons">Demo</a>
