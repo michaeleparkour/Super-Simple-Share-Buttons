@@ -90,8 +90,12 @@ Play here <a href="https://github.com/michaeleparkour/Super-Simple-Share-Buttons
           </script>
 
 <script src="https://github.com/michaeleparkour/Super-Simple-Share-Buttons/javascripts/share-buttons.min.js"></script>
-<script>
-  
-</script>
+    <script>
+        window.onload = function () {
+            shareButtons({
+                services: ['facebook', 'twitter', 'gplus', 'linkedin', 'vk', 'email', 'pinterest']
+            });
+        };
+    </script>
   </body>
 </html>
