@@ -4,7 +4,7 @@ Just include one *.js and you're ready to go.
 No Jquery, no other dependencies, even styles are inside one js.
 After adding script to page init with:<br/>
 <pre>
-shareButtons()
+shareButtons();
 </pre>
 Buttons are responsive.<br/>
 Default options are:
