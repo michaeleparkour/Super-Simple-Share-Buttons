@@ -145,7 +145,7 @@ function shareButtons(options) {
             );
         },
         "linkedin": function (icon) {
-            jsonp('http://www.linkedin.com/countserv/count/share?url=' + options.url, function (data) {
+            jsonp('https://www.linkedin.com/countserv/count/share?url=' + options.url, function (data) {
                 icon.querySelectorAll('span')[0].textContent = data.count;
             });
         },
