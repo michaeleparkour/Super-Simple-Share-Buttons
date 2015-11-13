@@ -1,0 +1,4 @@
+# Ignore IDEA files
+/nbproject/
+.idea/
+.DS_Store
